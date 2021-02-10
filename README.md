@@ -1,2 +1,2 @@
 # Codewars
-Collection of codewars solution
+Collection of my codewars' account solution
