@@ -9,3 +9,8 @@ function rowSumOddNumbers(n) {
 
   return total;
 }
+
+// improved solution
+function rowSumOddNumbers(n) {
+  return Math.pow(n, 3);
+}
